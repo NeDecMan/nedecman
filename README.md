@@ -1,6 +1,7 @@
 ## Web Developer
 
 ### Languages and Tools:
+![GoLang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=097CDB)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask&logoColor=F8C52C)
